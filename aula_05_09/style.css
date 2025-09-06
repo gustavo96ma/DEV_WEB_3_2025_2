@@ -1,0 +1,24 @@
+h1 {
+    color: blueviolet;
+    font-size: 60px;
+
+}
+
+h2 {
+    font-size: 42px;
+}
+
+.subtitle-blue {
+    color: blue;
+    font-weight: 200;
+    font-size: 16px;
+}
+
+#subtitle-moon {
+    color: red;
+    font-weight: 400;
+}
+
+.icons {
+    font-size: 46px;
+}
